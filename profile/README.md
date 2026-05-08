@@ -4,7 +4,7 @@
 
 Pivot Markets International, LLC is a US-based company building AI-powered tools for American businesses, workforce agencies, and municipalities. We provide training, consultation, and workflow implementation for organizations adopting AI across multiple industries.
 
----
+
 
 ## About
 
@@ -14,7 +14,7 @@ From there, we expanded into a broader mission. Small businesses, workforce agen
 
 We solve that.
 
----
+
 
 ## What We Build
 
@@ -26,7 +26,6 @@ We solve that.
 
 **Logic Architect Framework** — Our methodology for workforce AI transformation. Includes aptitude assessment, sovereign workflow training, employer-validated certification, and job placement. Designed to work within existing state and federal grant programs.
 
----
 
 ## Current Operations
 
@@ -41,7 +40,6 @@ We are actively working across multiple US states on AI workforce initiatives:
 
 Our institutional approach covers four channels: chambers of commerce for small business readiness audits, public libraries for community AI literacy, workforce and unemployment offices for re-entry training, and high schools and junior colleges for career track development.
 
----
 
 ## Publications
 
@@ -51,7 +49,7 @@ We publish a resource series for executives, educators, and workforce leaders on
 - Volume 2 — Executive readiness assessment for organizations considering AI
 - Volume 3 — Building local data sovereignty and reducing dependency on subscription-based cloud tools
 
----
+
 
 ## Contact
 
