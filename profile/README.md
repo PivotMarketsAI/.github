@@ -57,6 +57,6 @@ We publish a resource series for executives, educators, and workforce leaders on
 - Email: contact@pivotmarkets.ai
 - Location: United States of America
 
-
+---
 
 Pivot Markets International, LLC. 2026. All rights reserved.
