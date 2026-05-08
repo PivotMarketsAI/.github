@@ -43,14 +43,6 @@ Our institutional approach covers four channels: chambers of commerce for small 
 
 ---
 
-## Team
-
-**Daniel Cordaba** — Co-Founder and Strategic Operations. 20+ years of business development experience. Leads multi-state outreach, institutional partnerships, grant strategy, and sales operations. Based in Indiana.
-
-**Md Atiqul Islam** — Co-Founder and Head of Operations. Full-stack developer and systems architect. Leads product development, AI systems architecture, and platform engineering. Operates through AVOITS.
-
----
-
 ## Publications
 
 We publish a resource series for executives, educators, and workforce leaders on practical AI adoption:
