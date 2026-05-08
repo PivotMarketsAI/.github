@@ -2,13 +2,13 @@
 
 **AI workflow automation, grant intelligence, workforce transformation, and enterprise AI implementation.**
 
-Pivot Markets International, LLC is a US-based company building AI-powered tools for American businesses, workforce agencies, and municipalities. We provide training, consultation, and workflow implementation for organizations adopting AI across multiple industries.
+Pivot Markets International, LLC is a US-based company building AI-powered tools for American and international continental businesses, workforce agencies, and municipalities. We provide training, consultation, and workflow implementation for organizations adopting AI across multiple industries.
 
 
 
 ## About
 
-We started with a simple problem: general contractors in the US are losing money because their financial data lives in disconnected systems. That problem led us to build CashFlowSmart — a financial operating system that connects estimating, invoicing, bookkeeping, and cash flow forecasting into one platform.
+We started with a simple problem: general contractors in the US are losing money because their financial data lives in disconnected systems. That problem led us to build CashFlowSmart — a financial operating system that connects estimating, invoicing, bookkeeping, and predictive cash flow forecasting into one platform.
 
 From there, we expanded into a broader mission. Small businesses, workforce agencies, libraries, and local governments across the US are all struggling with the same challenge: they know AI matters, but they have no idea how to implement it without burning money on tools nobody knows how to use.
 
