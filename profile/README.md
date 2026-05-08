@@ -49,14 +49,6 @@ We publish a resource series for executives, educators, and workforce leaders on
 - Volume 2 — Executive readiness assessment for organizations considering AI
 - Volume 3 — Building local data sovereignty and reducing dependency on subscription-based cloud tools
 
-
-
-## Contact
-
-- Website: https://pivotmarkets.ai
-- Email: contact@pivotmarkets.ai
-- Location: United States of America
-
 ---
 
 Pivot Markets International, LLC. 2026. All rights reserved.
